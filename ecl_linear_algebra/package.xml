@@ -21,7 +21,6 @@
   <build_depend>ecl_formatters</build_depend>
   <build_depend>ecl_license</build_depend>
   <build_depend>ecl_math</build_depend>
-  <build_depend>sophus</build_depend>
 
   <exec_depend>ecl_build</exec_depend>
   <exec_depend>ecl_converters</exec_depend>
@@ -30,7 +29,6 @@
   <exec_depend>ecl_formatters</exec_depend>
   <exec_depend>ecl_license</exec_depend>
   <exec_depend>ecl_math</exec_depend>
-  <exec_depend>sophus</exec_depend>
 
   <test_depend>ament_cmake_gtest</test_depend>
   <test_depend>ament_lint_auto</test_depend>
